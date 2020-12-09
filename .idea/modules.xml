@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LolAPIProjects/.idea/LolAPIProjects.iml" filepath="$PROJECT_DIR$/../LolAPIProjects/.idea/LolAPIProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RiotAPIHelper.iml" filepath="$PROJECT_DIR$/.idea/RiotAPIHelper.iml" />
+    </modules>
+  </component>
+</project>
